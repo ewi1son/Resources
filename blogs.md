@@ -7,3 +7,4 @@
 | Duncan Scruggs | [@duncanscruggs](https://github.com/duncanbscruggs) | [duncanbscruggs.github.io](https://duncanbscruggs.github.io/) |
 | Chandler Ward | [@Cward92](https://https://github.com/Cward92) | [cward92.github.io](https://cward92.github.io/) |
 | Rachel Jackson | [@racheljay](https://github.com/racheljay) | [racheljay.github.io](https://racheljay.github.io/) |
+| Evan Wilson | [@ewi1son](https://github.com/ewi1son) | [ewi1son.github.io](https://ewi1son.github.io/) |
